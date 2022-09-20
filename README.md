@@ -1,5 +1,9 @@
 # Mock notifications app
 A mock notifications app displaying the basic usage of `state` and `FlatList` in a React Native app.
+This project is created with `react-native init`.
+
+<img src="https://user-images.githubusercontent.com/97089422/191226934-0615b3fa-f2b7-4d4f-bd7e-83cec8e71549.png" width=40% height=40%>
+
 
 ## Features
 - Add new notification by pressing the button. Message is randomized with built-in random text generator.
