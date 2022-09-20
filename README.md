@@ -1,6 +1,10 @@
 # Mock notifications app
 A mock notifications app displaying the basic usage of `state` and `FlatList` in a React Native app.
 
+## Features
+- Add new notification by pressing the button. Message is randomized with built-in random text generator.
+- Press each notification to delete it from the list.
+
 ## Limitations
 - Text generator's words are hard coded, therefore the quality is not at its best.
 - List are not saved throughout session.
